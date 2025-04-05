@@ -11,7 +11,7 @@ Sit back, relax, and let us take you on a memorable ride across one of India's m
 
 ## 📸 Project
 
-![Banner Image](pics/images/rail.png)
+![Banner Image](picsz/images/rail.png)
 
 ## 🛠️ Built With
 
